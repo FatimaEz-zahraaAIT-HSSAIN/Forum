@@ -1,0 +1,29 @@
+[
+    {
+        "id": 15,
+        "user_id": 6,
+        "question_id": 43,
+        "response": "reponse question 1.3 ajax",
+        "date": "2023-11-22 02:20:39",
+        "nom": "Oumaima",
+        "question": "I'm new to AJAX and javascript. In my project, I have to get a json object in my javascript file. I've used spray-json and it shows me the json object in the url. http:\/\/localhost:8081\/all-modules  {   \"status\": \"S1000\",   \"description\": \"Success\",   \"results\": [\"module1\", \"module2\", \"module3\"] } My Ajax call    $.ajax({         url: 'http:\/\/localhost:8081\/all-modules',         dataType: 'application\/json',         complete: function(data){             alert(data)         },         success: function(data){             alert(data)         } It returns an alert [object Object]. What is the issue in here?"
+    },
+    {
+        "id": 14,
+        "user_id": 6,
+        "question_id": 43,
+        "response": "reponse question 1.2 ajax",
+        "date": "2023-11-22 02:04:52",
+        "nom": "Oumaima",
+        "question": "I'm new to AJAX and javascript. In my project, I have to get a json object in my javascript file. I've used spray-json and it shows me the json object in the url. http:\/\/localhost:8081\/all-modules  {   \"status\": \"S1000\",   \"description\": \"Success\",   \"results\": [\"module1\", \"module2\", \"module3\"] } My Ajax call    $.ajax({         url: 'http:\/\/localhost:8081\/all-modules',         dataType: 'application\/json',         complete: function(data){             alert(data)         },         success: function(data){             alert(data)         } It returns an alert [object Object]. What is the issue in here?"
+    },
+    {
+        "id": 13,
+        "user_id": 5,
+        "question_id": 43,
+        "response": "reponse question 1.1 ajax ",
+        "date": "2023-11-22 02:02:46",
+        "nom": "Fatima Ez-zahraa AIT-HSSAIN",
+        "question": "I'm new to AJAX and javascript. In my project, I have to get a json object in my javascript file. I've used spray-json and it shows me the json object in the url. http:\/\/localhost:8081\/all-modules  {   \"status\": \"S1000\",   \"description\": \"Success\",   \"results\": [\"module1\", \"module2\", \"module3\"] } My Ajax call    $.ajax({         url: 'http:\/\/localhost:8081\/all-modules',         dataType: 'application\/json',         complete: function(data){             alert(data)         },         success: function(data){             alert(data)         } It returns an alert [object Object]. What is the issue in here?"
+    }
+]

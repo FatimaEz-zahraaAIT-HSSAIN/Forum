@@ -1,0 +1,23 @@
+[
+    {
+        "id": 45,
+        "user_id": 5,
+        "question": "une question 2",
+        "date": "2023-11-30 16:10:08",
+        "nom": "Fatima Ez-zahraa AIT-HSSAIN"
+    },
+    {
+        "id": 44,
+        "user_id": 6,
+        "question": "I have a problem to convert an object stdClass to array. I have tried in this way:  return (array) $booking; or  return (array) json_decode($booking,true); or  return (array) json_decode($booking); The array before the cast is full with one record, after my try to cast it is empty. How to cast \/ convert it without delete its rows?",
+        "date": "2023-11-22 02:22:34",
+        "nom": "Oumaima"
+    },
+    {
+        "id": 43,
+        "user_id": 5,
+        "question": "I'm new to AJAX and javascript. In my project, I have to get a json object in my javascript file. I've used spray-json and it shows me the json object in the url. http:\/\/localhost:8081\/all-modules  {   \"status\": \"S1000\",   \"description\": \"Success\",   \"results\": [\"module1\", \"module2\", \"module3\"] } My Ajax call    $.ajax({         url: 'http:\/\/localhost:8081\/all-modules',         dataType: 'application\/json',         complete: function(data){             alert(data)         },         success: function(data){             alert(data)         } It returns an alert [object Object]. What is the issue in here?",
+        "date": "2023-11-22 01:38:30",
+        "nom": "Fatima Ez-zahraa AIT-HSSAIN"
+    }
+]
